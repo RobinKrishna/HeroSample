@@ -1,0 +1,17 @@
+.max{
+    border: 1px solid blue;
+    height: 100vh;
+    /* background-color: rgb(255, 120, 120); */
+    /* opacity: 0.6; */
+    /* background-color: rgba(29, 195, 255, 0.5);
+     */
+     /* background-color: hsl(260, 56%, 85%); */
+     /* background-color: hsla(11, 46%, 79%, 0.9); */
+     /* background-color: #ffaddf; */
+     background-image: linear-gradient(to right, violet , indigo, blue);
+     /* background-image: radial-gradient(violet , indigo, blue, green, yellow, orange, red, transparent 50%); */
+     /* background-image: conic-gradient(violet , indigo, blue, green, yellow, orange, red, transparent); */
+
+      
+     
+}
